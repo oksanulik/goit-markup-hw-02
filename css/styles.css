@@ -21,6 +21,12 @@ body {
 .list {
   list-style: none;
 }
+.text {
+  font-size: 16px;
+  line-height: var(--typical-lh);
+  letter-spacing: 0.02em;
+}
+
 /*----------------------------Header----------------------------*/
 .header {
   background-color: var(--main-backgraund-color);
@@ -124,9 +130,6 @@ body {
   color: var(--main-text-color);
 }
 .features-text {
-  font-size: 16px;
-  line-height: var(--typical-lh);
-  letter-spacing: 0.02em;
   color: var(--second-text-color);
 }
 /*----------------------------Doing----------------------------*/
@@ -165,9 +168,6 @@ body {
   color: var(--main-text-color);
 }
 .team-text {
-  font-size: 16px;
-  line-height: var(--typical-lh);
-  letter-spacing: 0.02em;
   color: var(--second-text-color);
 }
 /*----------------------------Footer----------------------------*/
@@ -188,11 +188,9 @@ body {
 }
 .footer-text {
   font-weight: 400;
-  font-size: 16px;
-  line-height: var(--typical-lh);
-  letter-spacing: 0.02em;
   color: var(--footer-text-color);
 }
+
 /*----------------------------Portfolio----------------------------*/
 .portfolio {
   background-color: var(--main-backgraund-color);
@@ -225,8 +223,5 @@ body {
   color: var(--main-text-color);
 }
 .offers-text {
-  font-size: 16px;
-  line-height: var(--typical-lh);
-  letter-spacing: 0.02em;
   color: var(--main-text-color);
 }
