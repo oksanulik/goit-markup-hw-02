@@ -207,6 +207,7 @@ body {
   line-height: var(--typical-lh);
   letter-spacing: 0.04em;
   color: var(--accent-passive-color);
+  cursor: pointer;
 }
 .works-button:hover,
 .works-button:focus {
