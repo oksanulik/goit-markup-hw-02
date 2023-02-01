@@ -12,6 +12,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   background-color: var(--main-backgraund-color);
+  color: #2e2f42;
 }
 
 .link {
